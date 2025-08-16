@@ -1,5 +1,5 @@
 {
-  "name": "Painzy API",
+  "name": "Khafa API",
   "version": "v1.0.0",
   "description": "Next-Generation API Platform - Where Innovation Meets Performance",
   "bannerImage": "/src/banner.jpg",
@@ -7,22 +7,22 @@
     "status": "⚡ LIVE"
   },
   "apiSettings": {
-    "creator": "Painzy",
+    "creator": "Khafa",
     "apikey": ["attakistars"]
   },
   "links": [
     {
-      "url": "https://github.com/painzy740/painzy-api",
+      "url": "https://github.com/khafa",
       "name": "Star Repository",
       "icon": "fab fa-github"
     },
     {
-      "url": "https://api.painzy.web.id",
+      "url": "https://my-web-khafaa.vercel.app/",
       "name": "Documentation",
       "icon": "fas fa-book-open"
     },
     {
-      "url": "https://discord.gg/unionpure",
+      "url": "https://discord.gg/khafa",
       "name": "Join Community",
       "icon": "fab fa-discord"
     }
